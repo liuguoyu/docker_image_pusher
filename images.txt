@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #apache/hadoop:3.4
-sequenceiq/hadoop-docker:2.7.1
+sequenceiq/hadoop-docker:2.6.0
