@@ -13,7 +13,7 @@
 #hub-mirror.c.163.com/sequenceiq/hadoop-docker:2.7.1
 #mirror.baidubce.com/sequenceiq/hadoop-docker:2.7.1
 #dockerhub.icu/sequenceiq/hadoop-docker:2.7.1
-docker.m.daocloud.io/sequenceiq/hadoop-docker:2.7.1
+#docker.m.daocloud.io/sequenceiq/hadoop-docker:2.7.1
 docker.registry.cyou/sequenceiq/hadoop-docker:2.7.1
 docker-cf.registry.cyou/sequenceiq/hadoop-docker:2.7.1
 dockercf.jsdelivr.fyi/sequenceiq/hadoop-docker:2.7.1
