@@ -24,5 +24,4 @@
 #mirror.baidubce.com/sequenceiq/hadoop-docker:2.7.1
 #docker.nju.edu.cn/sequenceiq/hadoop-docker:2.7.1
 #docker.mirrors.sjtug.sjtu.edu.cn/sequenceiq/hadoop-docker:2.7.1
-#mirror.iscas.ac.cn/sequenceiq/hadoop-docker:2.7.1
-docker.rainbond.cc/sequenceiq/hadoop-docker:2.7.1
+dockerhub.timeweb.cloud/sequenceiq/hadoop-docker:2.7.1
