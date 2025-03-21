@@ -9,7 +9,7 @@
 #registry.docker-cn.com/sequenceiq/hadoop-docker:2.7.1
 #hub-mirror.c.163.com/sequenceiq/hadoop-docker:2.7.1
 #docker.mirrors.ustc.edu.cn/sequenceiq/hadoop-docker:2.7.1
-docker.m.daocloud.io/sequenceiq/hadoop-docker:2.7.1
+docker.1ms.run/sequenceiq/hadoop-docker:2.7.1
 hub-mirror.c.163.com/sequenceiq/hadoop-docker:2.7.1
 mirror.baidubce.com/sequenceiq/hadoop-docker:2.7.1
 dockerhub.icu/sequenceiq/hadoop-docker:2.7.1
