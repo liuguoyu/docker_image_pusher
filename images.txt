@@ -6,3 +6,23 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #apache/hadoop:3.4
 f1361db2.m.daocloud.io/sequenceiq/hadoop-docker:2.7.1
+registry.docker-cn.com/sequenceiq/hadoop-docker:2.7.1
+hub-mirror.c.163.com/sequenceiq/hadoop-docker:2.7.1
+docker.mirrors.ustc.edu.cn/sequenceiq/hadoop-docker:2.7.1
+docker.m.daocloud.io/sequenceiq/hadoop-docker:2.7.1
+hub-mirror.c.163.com/sequenceiq/hadoop-docker:2.7.1
+mirror.baidubce.com/sequenceiq/hadoop-docker:2.7.1
+dockerhub.icu/sequenceiq/hadoop-docker:2.7.1
+docker.registry.cyou/sequenceiq/hadoop-docker:2.7.1
+docker-cf.registry.cyou/sequenceiq/hadoop-docker:2.7.1
+dockercf.jsdelivr.fyi/sequenceiq/hadoop-docker:2.7.1
+docker.jsdelivr.fyi/sequenceiq/hadoop-docker:2.7.1
+dockertest.jsdelivr.fyi/sequenceiq/hadoop-docker:2.7.1
+mirror.aliyuncs.com/sequenceiq/hadoop-docker:2.7.1
+dockerproxy.com/sequenceiq/hadoop-docker:2.7.1
+mirror.baidubce.com/sequenceiq/hadoop-docker:2.7.1
+docker.m.daocloud.io/sequenceiq/hadoop-docker:2.7.1
+docker.nju.edu.cn/sequenceiq/hadoop-docker:2.7.1
+docker.mirrors.sjtug.sjtu.edu.cn/sequenceiq/hadoop-docker:2.7.1
+mirror.iscas.ac.cn/sequenceiq/hadoop-docker:2.7.1
+docker.rainbond.cc/sequenceiq/hadoop-docker:2.7.1
