@@ -27,4 +27,4 @@ powerjob/powerjob-server:v5.1.1
 #mirror.baidubce.com/sequenceiq/hadoop-docker:2.7.1
 #docker.nju.edu.cn/sequenceiq/hadoop-docker:2.7.1
 #docker.mirrors.sjtug.sjtu.edu.cn/sequenceiq/hadoop-docker:2.7.1
-registry.cn-beijing.aliyuncs.com/dc3/dc3-driver-opc-da:2025.9.0 
+tdengine/tsdb-ee:3.4.1.9
