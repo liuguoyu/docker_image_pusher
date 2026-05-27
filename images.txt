@@ -29,4 +29,4 @@ powerjob/powerjob-server:v5.1.1
 #docker.mirrors.sjtug.sjtu.edu.cn/sequenceiq/hadoop-docker:2.7.1
 #tdengine/tsdb-ee:3.4.1.9
 #postgres:17
-emqx:v4.0.0
+emqx:5.8.8
