@@ -33,4 +33,5 @@ powerjob/powerjob-server:v5.1.1
 #nacos/nacos-server:v3.2.2
 #prometheus
 #ollama/ollama:0.30.7
-datart/datart:1.0.0-rc.3
+#datart/datart:1.0.0-rc.3
+datart/datart:1.0.0-rc.1
